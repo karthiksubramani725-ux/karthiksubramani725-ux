@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://demolab.com" alt="Typing SVG" />
+# KARTHIK SUBRAMANI
+### Game Systems Engineer • Low-Level Runtime • Win32 DLL • Unreal Engine 5
 
 <p align="center">
   <img src="https://shields.io" />
@@ -79,15 +80,9 @@
 
 ---
 
-### 📊 GitHub Telemetry & Direct Contact
+### 📫 Connect & Relocation Readiness
 
 <div align="center">
-  <img src="https://vercel.app" height="165" />
-  <img src="https://vercel.app" height="165" />
-</div>
-
-<div align="center">
-  <br>
   <a href="mailto:karthiksubramani725@gmail.com">
     <img src="https://shields.io" />
   </a>
