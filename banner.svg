@@ -1,55 +1,32 @@
-<svg fill="none" viewBox="0 0 850 130" width="850" height="130" xmlns="http://w3.org">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://w3.org">
-      <style>
-        @keyframes typing {
-          0%, 10% { width: 0; }
-          45%, 85% { width: 100%; }
-          95%, 100% { width: 0; }
-        }
-        @keyframes blink {
-          50% { border-color: transparent; }
-        }
-        @keyframes glow {
-          0%, 100% { box-shadow: 0 0 12px rgba(56, 189, 248, 0.25); }
-          50% { box-shadow: 0 0 24px rgba(56, 189, 248, 0.55); }
-        }
-        .container {
-          font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, monospace;
-          background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
-          border: 1px solid #30363d;
-          border-radius: 12px;
-          padding: 22px 24px;
-          text-align: center;
-          animation: glow 4s ease-in-out infinite;
-        }
-        .title {
-          color: #f0f6fc;
-          font-size: 26px;
-          font-weight: 800;
-          letter-spacing: 2px;
-          margin: 0 0 10px 0;
-        }
-        .type-wrap {
-          display: inline-block;
-        }
-        .typing-text {
-          color: #38bdf8;
-          font-size: 16px;
-          font-weight: 600;
-          overflow: hidden;
-          white-space: nowrap;
-          border-right: 2px solid #38bdf8;
-          width: 0;
-          animation: typing 7s steps(56, end) infinite, blink 0.75s step-end infinite;
-        }
-      </style>
-      <div class="container">
-        <div class="title">KARTHIK SUBRAMANI</div>
-        <div class="type-wrap">
-          <div class="typing-text">GAME SYSTEMS ENGINEER • WIN32 DLL • UNREAL ENGINE 5 • TOKYO</div>
-        </div>
-      </div>
-    </div>
-  </foreignObject>
+<svg width="850" height="130" viewBox="0 0 850 130" fill="none" xmlns="http://w3.org">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="850" y2="130" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="cyberGlow" x1="0" y1="0" x2="850" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="846" height="126" rx="12" fill="url(#bgGrad)" stroke="#30363D" stroke-width="2">
+    <animate attributeName="stroke" values="#30363D;#38BDF8;#30363D" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="125" y="114" width="600" height="3" rx="1.5" fill="url(#cyberGlow)" opacity="0.8">
+    <animate attributeName="width" values="100;600;100" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="375;125;375" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="425" y="56" fill="#F0F6FC" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="28" font-weight="800" letter-spacing="3" text-anchor="middle">
+    KARTHIK SUBRAMANI
+  </text>
+
+  <text x="425" y="90" fill="#38BDF8" font-family="monospace, 'Courier New'" font-size="15" font-weight="700" letter-spacing="1.5" text-anchor="middle">
+    GAME SYSTEMS ENGINEER • WIN32 DLL • UNREAL ENGINE 5 • TOKYO
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="2.5s" repeatCount="indefinite"/>
+  </text>
 </svg>
