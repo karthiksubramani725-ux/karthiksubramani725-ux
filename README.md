@@ -1,13 +1,10 @@
 <div align="center">
 
-# KARTHIK SUBRAMANI
-### Game Systems Engineer • Low-Level Runtime • Win32 DLL • Unreal Engine 5
+<img src="./banner.svg" alt="Karthik Subramani Animated Banner" width="100%" />
 
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+<br>
+
+`🎯 Target: Tokyo, Japan` • `🛂 HSP Visa-Eligible (M.Sc. STEM)` • `⚙️ Systems & Tools Engineering`
 
 **Reverse-engineering closed-source runtime architectures, scripting state-driven game economies in Unreal Engine 5, and building low-level developer tooling.**
 
@@ -19,13 +16,7 @@
 
 <div align="center">
 
-![C++](https://shields.io)
-![Python](https://shields.io)
-![Win32 API](https://shields.io)
-![Unreal Engine 5](https://shields.io)
-![FastAPI](https://shields.io)
-![Ollama](https://shields.io)
-![Git](https://shields.io)
+`C++` • `Python` • `Win32 API & DLL Injection` • `Unreal Engine 5.8` • `FastAPI` • `Ollama / Mistral LLM` • `Cheat Engine` • `Git`
 
 </div>
 
@@ -83,8 +74,7 @@
 ### 📫 Connect & Relocation Readiness
 
 <div align="center">
-  <a href="mailto:karthiksubramani725@gmail.com">
-    <img src="https://shields.io" />
-  </a>
-  <img src="https://shields.io" />
+
+📧 **Email:** [karthiksubramani725@gmail.com](mailto:karthiksubramani725@gmail.com) • 🇯🇵 **Japanese:** Actively Studying (`JFT-Basic / N4 Target`)
+
 </div>
