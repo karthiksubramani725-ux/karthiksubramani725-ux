@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Karthik Subramani Animated Banner" width="100%" />
+# KARTHIK SUBRAMANI
+### `GAME SYSTEMS ENGINEER` • `WIN32 RUNTIME` • `UNREAL ENGINE 5`
 
-<br>
+**📍 Mumbai, India ➔ 🎯 Relocating to Tokyo, Japan (M.Sc. Computer Science | HSP Visa-Eligible)**
 
-`🎯 Target: Tokyo, Japan` • `🛂 HSP Visa-Eligible (M.Sc. STEM)` • `⚙️ Systems & Tools Engineering`
-
-**Reverse-engineering closed-source runtime architectures, scripting state-driven game economies in Unreal Engine 5, and building low-level developer tooling.**
+> *"Reverse-engineering closed-source runtime architectures, scripting state-driven game economies in Unreal Engine 5, and building low-level developer tooling."*
 
 </div>
 
@@ -14,17 +13,11 @@
 
 ### ⚡ Engineering Arsenal
 
-<div align="center">
-
-`C++` • `Python` • `Win32 API & DLL Injection` • `Unreal Engine 5.8` • `FastAPI` • `Ollama / Mistral LLM` • `Cheat Engine` • `Git`
-
-</div>
-
-| Domain | Core Capabilities & Diagnostic Tooling |
+| Domain | Core Technologies & Diagnostic Tooling |
 | :--- | :--- |
-| **Low-Level & Runtime** | Win32 Process Attachment, Custom `DLL` Injection, Dynamic Pointer Offset Tracing, Cheat Engine, NFSVLTEd |
-| **Gameplay & Engine** | Unreal Engine 5 (`UE 5.8.4`), Component-Based State Machines, Procedural Spatial Grids, Economy Balancing |
-| **Systems & Local AI** | Python (`FastAPI`), Local LLM Orchestration (`Ollama` / `Mistral`), Telemetry Extraction & Live-Ops Triage |
+| **Low-Level & Runtime** | `C++` • `Python` • `Win32 API` • `Custom DLL Injection` • `Dynamic Pointer Tracing` • `Cheat Engine` • `NFSVLTEd` |
+| **Gameplay & Engine** | `Unreal Engine 5 (UE 5.8.4)` • `Component-Based State Machines` • `Procedural Spatial Grids` • `Economy Balancing` |
+| **Systems & Local AI** | `Python (FastAPI)` • `Ollama` • `Mistral 7B` • `Telemetry Extraction` • `Live-Ops Diagnostics` |
 
 ---
 
@@ -75,6 +68,6 @@
 
 <div align="center">
 
-📧 **Email:** [karthiksubramani725@gmail.com](mailto:karthiksubramani725@gmail.com) • 🇯🇵 **Japanese:** Actively Studying (`JFT-Basic / N4 Target`)
+📧 **Direct Email:** [karthiksubramani725@gmail.com](mailto:karthiksubramani725@gmail.com) &nbsp;|&nbsp; 🇯🇵 **Japanese:** Actively Studying (`JFT-Basic / N4 Target`) &nbsp;|&nbsp; 🛂 **Visa:** HSP Eligible (`M.Sc. STEM`)
 
 </div>
