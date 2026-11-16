@@ -1,73 +1,170 @@
+
 <div align="center">
 
 # KARTHIK SUBRAMANI
-### `GAME SYSTEMS ENGINEER` • `WIN32 RUNTIME` • `UNREAL ENGINE 5`
 
-**📍 Mumbai, India ➔ 🎯 Relocating to Tokyo, Japan (M.Sc. Computer Science | HSP Visa-Eligible)**
+### `GAMEPLAY SYSTEMS` • `GAME AI RESEARCH` • `RUNTIME TOOLING`
 
-> *"Reverse-engineering closed-source runtime architectures, scripting state-driven game economies in Unreal Engine 5, and building low-level developer tooling."*
+📍 Mumbai, India | 🎯 Open to opportunities in Japan
+
+**M.Sc. Engineering and Computer Science**
+
+*Exploring player-responsive gameplay systems, dynamic difficulty adjustment, runtime telemetry, and interactive game technologies.*
 
 </div>
 
 ---
 
-### ⚡ Engineering Arsenal
+## ⚡ Engineering Arsenal
 
-| Domain | Core Technologies & Diagnostic Tooling |
+| Domain | Technologies & Tools |
 | :--- | :--- |
-| **Low-Level & Runtime** | `C++` • `Python` • `Win32 API` • `Custom DLL Injection` • `Dynamic Pointer Tracing` • `Cheat Engine` • `NFSVLTEd` |
-| **Gameplay & Engine** | `Unreal Engine 5 (UE 5.8.4)` • `Component-Based State Machines` • `Procedural Spatial Grids` • `Economy Balancing` |
-| **Systems & Local AI** | `Python (FastAPI)` • `Ollama` • `Mistral 7B` • `Telemetry Extraction` • `Live-Ops Diagnostics` |
+| **Programming** | `C++` • `Python` |
+| **Low-Level & Runtime** | `Win32 API` • `pymem` • `Cheat Engine` • `NFSVLTEd` • Memory Inspection |
+| **Game Development** | `Unreal Engine 5` • `Blueprints` |
+| **AI & Backend** | `Ollama` • `FastAPI` • Local LLM Integration |
+| **Development Tools** | `Git` • `GitHub` |
 
 ---
 
-### 🚀 Flagship Systems & Architecture
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏎️ <a href="https://github.com">PRIMUS (v0.4.1)</a></h3>
-      <b>Cross-Engine Dynamic Difficulty Adjustment (DDA)</b><br><br>
-      Engineered across <b>26 iterative builds</b>. Attaches directly to closed-source executables via <code>Win32</code> process hooks and experimental <code>DLL</code> injection to extract live velocity and race-state telemetry.<br><br>
-      <code>C++</code> • <code>Python</code> • <code>Win32 API</code> • <code>EAGL / Re-Volt</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🥛 <a href="https://github.com">A Glass Of Water</a></h3>
-      <b>Systems-Driven Psychological Horror (UE 5.8.4)</b><br><br>
-      Built around a 3-variable real-time survival economy (<i>Thirst, Awareness, Sleepiness</i>), multi-tiered consumable debuffs, procedural night-cycle corridor expansion, and post-Day 14 companion safe-zone vectors.<br><br>
-      <code>Unreal Engine 5</code> • <code>Blueprints / C++</code> • <code>Systems Design</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com">Project Resurrections</a></h3>
-      <b>Multi-Volume RPG Systems & Economy Bible</b><br><br>
-      Comprehensive 4-volume architectural specification covering turn-based combat math, anti-inflation economy sinks/faucets, logarithmic scaling curves, and AI combat decision trees.<br><br>
-      <code>Game Design (GDD)</code> • <code>Economy Math</code> • <code>AI Heuristics</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔧 <a href="https://github.com">Chazz</a></h3>
-      <b>Local AI Automotive Engineering Assistant</b><br><br>
-      Offline-first technical diagnostic assistant powered by <code>FastAPI</code>, <code>Ollama</code>, and <code>Mistral</code> with deterministic guardrails for ECU fuel/boost mapping and drivetrain gear-ratio logic.<br><br>
-      <code>Python</code> • <code>FastAPI</code> • <code>Ollama</code> • <code>Mistral 7B</code>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏎️ [PRIMUS — v0.2.7](https://github.com/karthiksubramani725-ux/Primus)
+
+**Player-Responsive Dynamic Difficulty Adjustment**
+
+An experimental DDA prototype for *Need for Speed: Most Wanted (2005)*.
+
+- Live player-speed telemetry.
+- Rolling speed-history analysis.
+- Rule-based aggression scoring.
+- Proposed difficulty calculation (0–20).
+- Experimental runtime memory integration.
+
+**26 iterative development builds.**
+
+`Python` `C++` `Win32 API` `Runtime Telemetry`
+
+</td>
+<td width="50%" valign="top">
+
+### 🥛 [A Glass of Water](https://github.com/karthiksubramani725-ux/A-Glass-Of-Water)
+
+**Systems-Driven Psychological Horror**
+
+An Unreal Engine 5.8.4 project.
+
+The current playable baseline includes player locomotion, mouse-look and initial level layout.
+
+Additional survival mechanics, progression systems and companion AI remain part of the planned development roadmap.
+
+`Unreal Engine 5` `Blueprints` `Game Systems`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📖 [Project Resurrections](https://github.com/karthiksubramani725-ux/Project-Resurrections)
+
+**RPG Systems Design & Documentation**
+
+A multi-volume game-design project exploring:
+
+- Turn-based combat mathematics.
+- Progression and level scaling.
+- Economy faucets and sinks.
+- AI combat decision-making.
+
+`Game Design` `Systems Architecture` `Economy Design`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 [Chazz](https://github.com/karthiksubramani725-ux/Chazz)
+
+**Local AI Gaming Companion**
+
+A locally run conversational application built around:
+
+- FastAPI backend.
+- Ollama local-model integration.
+- Session-scoped JSON conversation persistence.
+- Chat management and interaction features.
+
+`Python` `FastAPI` `Ollama`
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🏆 Industry Validation & AAA Vetting
+## 🎮 Game Testing Experience
 
-* **🎮 Ubisoft (Contract — Technical Live-Ops & Game Support):** Managed live multiplayer telemetry triage, real-time crash escalation, and player account integrity across high-concurrency production environments.
-* **⭐ Rockstar India (2026 — Advanced Technical Vetting):** Cleared multi-staged systems logic evaluation loops on dense proprietary engine architectures under strict black-box constraints.
-* **🔬 Closed AAA Technical Testing (2019–Present):** Vetted participant identifying physics desynchronization, telemetry anomalies, and frame-pacing edge cases for **EA (*Battlefield Labs PS5*)**, **Codemasters (*F1 Series*)**, and **Activision (*Warzone Mobile*)**.
+**Official Closed-Beta Testing | 2019–2025**
+
+Participated in officially invited closed-beta programmes for selected titles:
+
+- Call of Duty: Mobile
+- Call of Duty: Warzone Mobile
+- F1 23 and F1 24
+- Battlefield 6
+- skate.
+
+Testing activities included:
+
+- Observing build stability and crashes.
+- Identifying unexpected gameplay behaviour.
+- Recording issue descriptions, occurrence conditions and triggering actions.
+- Submitting feedback using assigned beta tester identification codes.
 
 ---
 
-### 📫 Connect & Relocation Readiness
+## 💼 Professional Experience
+
+**5CA — Game Support Agent (Ubisoft Project)**
+
+*May 2026 – August 2026 | Direct Contract | Remote*
+
+---
+
+## 🎓 Education
+
+**M.Sc. Engineering and Computer Science**  
+GISMA University of Applied Sciences, Germany  
+October 2023 – October 2025
+
+**Bachelor of Commerce**  
+University of Mumbai, India  
+2019 – May 2022
+
+---
+
+## 🔭 Areas of Interest
+
+- Game AI and intelligent NPC behaviour.
+- Dynamic Difficulty Adjustment.
+- Player behaviour modelling.
+- Adaptive gameplay systems.
+- Runtime telemetry and game-engine integration.
+- Gameplay systems architecture.
+
+---
+
+## 📫 Connect
 
 <div align="center">
 
-📧 **Direct Email:** [karthiksubramani725@gmail.com](mailto:karthiksubramani725@gmail.com) &nbsp;|&nbsp; 🇯🇵 **Japanese:** Actively Studying (`JFT-Basic / N4 Target`) &nbsp;|&nbsp; 🛂 **Visa:** HSP Eligible (`M.Sc. STEM`)
+📧 [Email](mailto:karthiksubramani725@gmail.com)
+
+🐙 [GitHub Repositories](https://github.com/karthiksubramani725-ux?tab=repositories)
+
+**Interested in game-development opportunities and research collaborations in Japan.**
 
 </div>
