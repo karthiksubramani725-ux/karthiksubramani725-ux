@@ -3,13 +3,13 @@
 
 # KARTHIK SUBRAMANI
 
-### `GAMEPLAY SYSTEMS` • `GAME AI RESEARCH` • `RUNTIME TOOLING`
+### `GAMEPLAY SYSTEMS` • `GAME AI` • `RUNTIME TOOLING`
 
 📍 Mumbai, India | 🎯 Open to opportunities in Japan
 
 **M.Sc. Engineering and Computer Science**
 
-*Exploring player-responsive gameplay systems, dynamic difficulty adjustment, runtime telemetry, and interactive game technologies.*
+Exploring player-responsive gameplay systems, Dynamic Difficulty Adjustment, game AI, runtime telemetry, and interactive game technologies.
 
 </div>
 
@@ -19,11 +19,11 @@
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Programming** | `C++` • `Python` |
-| **Low-Level & Runtime** | `Win32 API` • `pymem` • `Cheat Engine` • `NFSVLTEd` • Memory Inspection |
+| **Programming** | `Python` • `C++` |
+| **Runtime & Memory Tools** | `pymem` • `Cheat Engine` • `NFSVLTEd` • Windows Process Interaction |
 | **Game Development** | `Unreal Engine 5` • `Blueprints` |
 | **AI & Backend** | `Ollama` • `FastAPI` • Local LLM Integration |
-| **Development Tools** | `Git` • `GitHub` |
+| **Development Workflow** | `Git` • `GitHub` |
 
 ---
 
@@ -35,19 +35,19 @@
 
 ### 🏎️ [PRIMUS — v0.2.7](https://github.com/karthiksubramani725-ux/Primus)
 
-**Player-Responsive Dynamic Difficulty Adjustment**
+**Player-Responsive Intelligence Managing User Scenarios**
 
-An experimental DDA prototype for *Need for Speed: Most Wanted (2005)*.
+An experimental, rule-based Dynamic Difficulty Adjustment prototype developed for *Need for Speed: Most Wanted (2005)*.
 
 - Live player-speed telemetry.
 - Rolling speed-history analysis.
-- Rule-based aggression scoring.
+- Aggression scoring (0–10).
 - Proposed difficulty calculation (0–20).
-- Experimental runtime memory integration.
+- Experimental runtime memory interaction.
 
-**26 iterative development builds.**
+Developed through 26 iterative builds.
 
-`Python` `C++` `Win32 API` `Runtime Telemetry`
+`Python` `pymem` `Game AI` `DDA`
 
 </td>
 <td width="50%" valign="top">
@@ -56,11 +56,11 @@ An experimental DDA prototype for *Need for Speed: Most Wanted (2005)*.
 
 **Systems-Driven Psychological Horror**
 
-An Unreal Engine 5.8.4 project.
+An Unreal Engine 5.8.4 game project.
 
-The current playable baseline includes player locomotion, mouse-look and initial level layout.
+The current baseline uses the First Person Blueprint template, with player locomotion, mouse-look and initial level layout.
 
-Additional survival mechanics, progression systems and companion AI remain part of the planned development roadmap.
+Survival mechanics, progression systems, threats and companion AI remain planned development features.
 
 `Unreal Engine 5` `Blueprints` `Game Systems`
 
@@ -80,6 +80,7 @@ A multi-volume game-design project exploring:
 - Progression and level scaling.
 - Economy faucets and sinks.
 - AI combat decision-making.
+- World and encounter design.
 
 `Game Design` `Systems Architecture` `Economy Design`
 
@@ -90,7 +91,7 @@ A multi-volume game-design project exploring:
 
 **Local AI Gaming Companion**
 
-A locally run conversational application built around:
+A locally run conversational application featuring:
 
 - FastAPI backend.
 - Ollama local-model integration.
@@ -105,15 +106,16 @@ A locally run conversational application built around:
 
 ---
 
-## 🎮 Game Testing Experience
+## 🎮 Official Game Testing Experience
 
-**Official Closed-Beta Testing | 2019–2025**
+**Invited Closed-Beta Testing | 2019–2025**
 
-Participated in officially invited closed-beta programmes for selected titles:
+Participated in officially invited closed-beta programmes for:
 
 - Call of Duty: Mobile
 - Call of Duty: Warzone Mobile
-- F1 23 and F1 24
+- F1 23
+- F1 24
 - Battlefield 6
 - skate.
 
@@ -122,7 +124,7 @@ Testing activities included:
 - Observing build stability and crashes.
 - Identifying unexpected gameplay behaviour.
 - Recording issue descriptions, occurrence conditions and triggering actions.
-- Submitting feedback using assigned beta tester identification codes.
+- Submitting feedback using assigned beta-tester identification codes.
 
 ---
 
@@ -152,8 +154,9 @@ University of Mumbai, India
 - Dynamic Difficulty Adjustment.
 - Player behaviour modelling.
 - Adaptive gameplay systems.
-- Runtime telemetry and game-engine integration.
+- Runtime telemetry and game-process interaction.
 - Gameplay systems architecture.
+- Racing-game AI and simulation systems.
 
 ---
 
